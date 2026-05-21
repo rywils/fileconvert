@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "src/app/api/convert/route.ts": {
+      "maxDuration": 60
+    },
+    "src/app/api/download/[sessionId]/zip/route.ts": {
+      "maxDuration": 60
+    }
+  }
+}
